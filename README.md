@@ -1,4 +1,4 @@
-- 🌱 I’m currently enjoy dwm, learning go.
+- 🌱 Wow.
 
 <!--
 **binnz/binnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
